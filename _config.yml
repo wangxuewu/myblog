@@ -1,1 +1,11 @@
-﻿baseurl: /myblog
+﻿auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: xuewu.cf
+url: http://xuewu.cf
+feed: /atom.xml
+author_info: <a href="http://xuewu.cf/">Wang Xuewu</a>
