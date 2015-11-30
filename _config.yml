@@ -1,3 +1,9 @@
 markdown: rdiscount
 pygments: true
 baseurl: /myblog
+ comments :
+    provider : duoshuo
+    duoshuo :
+      short_name : come
+    disqus :
+      short_name : jekyllbootstrap
